@@ -1,4 +1,5 @@
 # SOC-Automation-Lab
+![SOC Architecture](./images/architecture.jpg)
 ## Setup
 
 ### **Step 1: Download Windows ISO**
